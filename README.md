@@ -22,6 +22,14 @@ This repository contains an automated Power BI dashboard that tracks the perform
 
 - [Aug_2024-June 2025](Reports/Aug_2024-June_2025.md)
 
+## SQL Queries
+
+- [Bulk Insert to SQL Server](sql/bulk_insert.sql)
+- [Creating New Columns/data Cleaning](sql/create_new_column.sql)
+- [Spending Analysis Query](sql/spending_analysis.sql)
+
+
+
 
 # OVERVIEW
 This project represents a practical financial analysis initiative I embarked on using my personal UBA bank statement data. My goal was to assess personal financial habits, identify spending inefficiencies, and ultimately build a clear, actionable picture of where my money goes and how to optimize my financial decisions.
