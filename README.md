@@ -25,7 +25,7 @@ This repository contains an automated Power BI dashboard that tracks the perform
 ## SQL Queries
 
 - [Bulk Insert to SQL Server](sql/bulk_insert.sql)
-- [Creating New Columns/data Cleaning](sql/create_new_columns.sql)
+- [Creating New Columns/data Cleaning](sql/creating_new_columns.sql)
 - [Spending Analysis Query](sql/spending_analysis.sql)
 
 
