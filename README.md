@@ -6,7 +6,7 @@
 - [TOOL AND TECHNOLOGIES](#tools-and-technologies)
 - [DATA PROCESSING](#data-processing)
 - [SKILLS DEMONSTRATED](#skills-demonstrated)
-- [OBJECTIVES/BUSINESS PROBLEMS](#objectives-/-business-problems)
+- [OBJECTIVES/ BUSINESS PROBLEMS](#objectives-/-business-problems)
 - [ANALYTICAL THOUGHTS AND FRAMES](#analytical-thoughts-and-frames)
 
 
