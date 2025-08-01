@@ -2,7 +2,9 @@
 # PERSONAL-BANK-STATEMENT-ANALYSIS
 
 # TABLE OF CONTENT
-
+- [OVERVIEW](overview)
+- [TOOL-AND-TECHNOLOGIES](toolsandtechnologies)
+- 
 This repository contains an automated Power BI dashboard that tracks the performance of month expenses. The dashboard updates every 6 months.
 
 ## Folders
