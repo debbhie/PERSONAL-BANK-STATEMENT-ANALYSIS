@@ -96,6 +96,7 @@ From the dashboard's pie chart visualization, I extracted the following percenta
 
 
 * Top 5 Largest Transactions
+Major debits were largely classified under "Others", "Food", and "Savings", indicating large one-time or scheduled spending.
 
 |Date	|Purpose	|Amount	    |Actionable Insight|
 |-------|-----------|-----------|------------------|
@@ -104,3 +105,42 @@ From the dashboard's pie chart visualization, I extracted the following percenta
 |Nov 2024|	Savings	|₦600,054	|Positive action—schedule recurring instead|
 |Dec 2024|	Savings	|₦300,054	|Good follow-up savings behavior|
 |Jun 2025|	Delivery|₦216,054	|One large delivery fromthe USA|
+
+## Critical Thinking Highlights
+* Categorization Challenge: Many transactions had unclear descriptions. I built a custom classification logic in SQL using pattern matching to accurately group them.
+* Root Cause Analysis: I didn’t just identify what I spent, I explored why. For example, a rise in transfers during Q4 aligned with family-related expenses.
+* Behavioral Insight: I noticed “inflow spikes” didn’t always result in savings leading to insights about lifestyle inflation.
+
+# KEY INSIGHTS
+* High Commitment to Savings (40.31%)
+A major chunk of debit transactions went into savings, showing that i have a strong financial discipline. This is the largest category of spending, which is a positive indicator of long-term planning and wealth-building intent.
+
+* Food Spending Is Significantly High (27.27%)
+Food accounts for more than one-quarter of total spending. While food is essential, this level may suggests possible overspending.
+
+* "Others" Is the Largest Unclear Category (12.7%)
+The third-largest spending category is “Others”, which lacks transparency. This can hide unmonitored or impulse expenses, making it difficult for me to evaluate spending habits clearly.
+
+* Inconsistent Monthly Spending Pattern
+Outflows spiked between October and December 2024, and again in June 2025. The inflows also rose dramatically in July 2025, suggesting income fluctuation or ad hoc earnings. This variation might affect monthly budget stability.
+
+* Top 5 Largest Transactions Were Transfers
+All top 5 largest debits were processed as transfers, and four of them were for savings, food, or delivery. These high-value items reflect both responsible and lifestyle spending, but also highlight a reliance on manual transfers.
+
+# RECOMMENDATIONS
+* Break Down the “Others” Category
+Track the process of spending unplanned money. This category should never exceed 5% monthly. The goal is to improve transparency in spending.
+
+* Set a Monthly Cap for Food Expenses
+I Aim to keep food expenses under 20% of monthly debit by creating a grocery budget, tracking meal expenses weekly, and identifying which months consistently exceed the threshold. The goal is to Curb lifestyle inflation and reduce leakage.
+
+* Create a Lifestyle Expense KPI Monitor
+I will Use Power BI DAX to group delivery, skincare, beauty, social support, and miscellaneous into a "Lifestyle" categoryand Set up alerts or color triggers when this category exceeds 10% of your monthly spend. The Goal is to monitor non-essential spending.
+
+* Automate Savings Instead of Manual Transfers
+Since savings are frequent and high-value, i will use automated standing orders to avoid missing goals. And also break savings into short-term (emergency fund) and long-term (investment) categories for better tracking. The Goal is to improve efficiency and goal alignment.
+
+* Smooth Out Monthly Spending with Budget Forecasting
+Given the seasonal spikes (Oct–Dec and June), i will implement a forecast or budget planner to preempt high-spend months. The Goal is to create a sustainable monthly financial flow.
+
+
