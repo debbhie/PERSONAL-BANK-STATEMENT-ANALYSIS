@@ -2,10 +2,14 @@
 # PERSONAL-BANK-STATEMENT-ANALYSIS
 
 # TABLE OF CONTENT
-- [OVERVIEW](overview)
-- [TOOL AND TECHNOLOGIES](toolsandtechnologies)
-- [DATA PROCESSING](dataprocessing)
-- 
+- [OVERVIEW](#overview)
+- [TOOL AND TECHNOLOGIES](#tools-and-technologies)
+- [DATA PROCESSING](#data-processing)
+- [SKILLS DEMONSTRATED](#skills-demonstrated)
+- [OBJECTIVES/BUAINESS PROBLEMS](#objectives-/-business-problems)
+- [ANALYTICAL THOUGHTS AND FRAMES](#analytical-thoughts-and-frames)
+
+
 This repository contains an automated Power BI dashboard that tracks the performance of month expenses. The dashboard updates every 6 months.
 
 ## Folders
@@ -38,9 +42,6 @@ Several steps were taken in both SQL and power BI to ensure the data was clean a
   - Date Table to Transaction_date column (one to many relationship)
   - Purpose column to Purpose Table (many to one relationship)
   - Transaction_date column to Top 5 transactions Table (many to one relationship)
-
-Data types were standardized.
-The first row was promoted to headers for consistency.
 
 # SKILLS DEMONSTRATED
 The analysis involved multiple data processing and analytical techniques, including:
