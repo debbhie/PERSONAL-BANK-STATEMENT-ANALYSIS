@@ -12,7 +12,17 @@ This wasn not just a visual exercise, it was a critical thinking process, where 
 * Data Source: PDF file from Uba bank which was converted to CSV file.
 
 # DATA PROCESSING
+Data Transformation:
+Several steps were taken in both SQL and power BI to ensure the data was clean and well-structured:
+* New columns like transaction_type and pupose were created to break down narration column and separate what the money was used for.
+* Inflow/Outflow column were used to know the transactions that were debits or credits using one column.
+* Data modelling was used to connects various columns and show their relationshps with one another.
+  - Date Table to Transaction_date column (one to many relationship)
+  - Purpose column to Purpose Table (many to one relationship)
+  - Transaction_date column to Top 5 transactions Table (many to one relationship)
 
+Data types were standardized.
+The first row was promoted to headers for consistency.
 
 # SKILLS DEMONSTRATED
 The analysis involved multiple data processing and analytical techniques, including:
