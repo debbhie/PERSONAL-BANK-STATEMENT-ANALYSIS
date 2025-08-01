@@ -3,7 +3,8 @@
 
 # TABLE OF CONTENT
 - [OVERVIEW](overview)
-- [TOOL-AND-TECHNOLOGIES](toolsandtechnologies)
+- [TOOL AND TECHNOLOGIES](toolsandtechnologies)
+- [DATA PROCESSING](dataprocessing)
 - 
 This repository contains an automated Power BI dashboard that tracks the performance of month expenses. The dashboard updates every 6 months.
 
