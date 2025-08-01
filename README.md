@@ -10,3 +10,4 @@ This wasn not just a visual exercise, it was a critical thinking process, where 
 * Power BI: I Used for data modelling, dashboard creation, DAX measures, visual design, and interactivity.
 * Data Source: PDF file from Uba bank which was converted to CSV file.
 
+# DATA PROCESSING
