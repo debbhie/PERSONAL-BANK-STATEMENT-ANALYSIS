@@ -42,6 +42,7 @@ Several steps were taken in both SQL and power BI to ensure the data was clean a
   - Date Table to Transaction_date column (one to many relationship)
   - Purpose column to Purpose Table (many to one relationship)
   - Transaction_date column to Top 5 transactions Table (many to one relationship)
+    ![uba modelling](https://github.com/user-attachments/assets/ed81438d-5fb2-4d14-9e48-71afa0f4551d)
 
 # SKILLS DEMONSTRATED
 The analysis involved multiple data processing and analytical techniques, including:
