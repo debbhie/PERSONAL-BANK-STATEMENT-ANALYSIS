@@ -56,6 +56,41 @@ This stage helped shape the KPIs on the dashboard.
 |Net Balance	| ₦2.66M	| Positive surplus—a sign of financial growth|
 |YOY Change	| -15.50%	| Reduced spending vs previous year|
 
+YOY indicates a positive net inflow, though year-over-year (YOY) spending decreased by 15.5%, potentially due to reduced discretionary spending and improved savings habits.
 
+# Time-Based Trends
+* Peak Debit: October 2024 (~₦2M+)
+* Peak Credit: July 2025 (~₦2.5M+)
+* Low Activity: August & September 2024, and February 2025
+
+* Debit & Credit Trend (Monthly)
+A side-by-side line chart revealed spikes in credit in July and high spending in October and November, linked to wedding invite, chrismas trips and  gifting seasons.
+
+* Total Monthly Outflow vs Inflow
+The disparity between December outflow and inflow indicated unsustainable expense patterns, which could be optimized through staggered savings or expense capping.
+
+July 2025 recorded the highest inflow, suggesting a possible salary increase, due to a new job.
+
+## Behavior Analysis
+* Most Frequent Transaction Type
+Transfers dominated (40.31%), followed by Airtime and Bank charges. This is clearly an overuse of manual transactions and this has caused the bank charges to be high becausse of how frequent the transactions takes place.
+
+* Breakdown of Debit Transactions by Purpose
+From the dashboard's pie chart visualization, I extracted the following percentages that represent how I allocated funds over the 12-month period:
+
+|Category	|% of Total Debit	|Interpretation|
+|-----------|-------------------|--------------|
+|Savings	|40.31%	            |Strong commitment to financial discipline and future planning|
+|Food	    | 27.27%            |Substantial portion but it could benefit from structured budgeting or grocery planning|
+|Others	    |12.7%	            |Not comeletely sure about the expenses|
+|Passport	|4.81%	            |One-off expense but significant|
+|Miscellaneous|	3.24%	        |Unplanned expenses|
+|Socials/Support|	2.73%	    |Altruistic or social engagements. Gifts to family/friends|
+|Utilities	|2.25%	            |Essential and recurring; expected baseline|
+|Delivery	|2.08%	            |May indicate convenience spending; can be optimized|
+|Hair/Beauty|2.02%	            |Lifestyle expense; worth reviewing frequency|
+|Skincare	|1.07%	            |Niche spending category; should be capped|
+|Health	    |0.99%              |Lower-than-expected; Hardly any health conditions|
+|Business	|0.52%	            |Opportunity to increase if side hustle exists|
 
 
