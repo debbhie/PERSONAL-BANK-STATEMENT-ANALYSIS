@@ -96,6 +96,7 @@ From the dashboard's pie chart visualization, I extracted the following percenta
 
 
 * Top 5 Largest Transactions
+
 |Date	|Purpose	|Amount	    |Actionable Insight|
 |-------|-----------|-----------|------------------|
 |Oct 2024|	Others	|₦1,000,050	|Investigate "Others" label for context|
