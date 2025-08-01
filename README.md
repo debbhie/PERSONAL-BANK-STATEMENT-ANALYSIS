@@ -6,7 +6,7 @@
 - [TOOL AND TECHNOLOGIES](#tools-and-technologies)
 - [DATA PROCESSING](#data-processing)
 - [SKILLS DEMONSTRATED](#skills-demonstrated)
-- [OBJECTIVES / BUSINESS PROBLEMS](#objectives-/-business-problems)
+- [OBJECTIVES AND BUSINESS PROBLEMS](#objectives-and-business-problems)
 - [ANALYTICAL THOUGHTS AND FRAMES](#analytical-thoughts-and-frames)
 
 
@@ -52,7 +52,7 @@ The analysis involved multiple data processing and analytical techniques, includ
 * Visualization & Reporting: Presenting findings in a clear and actionable format.
 * Critical Thinking & Problem-Solving: Identifying areas where my money goes and optimizing my financial decisions.
 
-# OBJECTIVES / BUSINESS PROBLEMS
+# OBJECTIVES AND BUSINESS PROBLEMS
 * To track and categorize all transactions for a 12-month period.
 * Identify spending leaks and optimize cash flow.
 * Build an automated dashboard with filters for purpose, time range, and transaction type.
