@@ -1,6 +1,8 @@
 
 # PERSONAL-BANK-STATEMENT-ANALYSIS
 
+# TABLE OF CONTENT
+
 This repository contains an automated Power BI dashboard that tracks the performance of month expenses. The dashboard updates every 6 months.
 
 ## Folders
@@ -9,7 +11,7 @@ This repository contains an automated Power BI dashboard that tracks the perform
 - `Reports/`: 6 months progress reports
 - `Data/`: Cleaned bank statement
 
-## 🗓️ Monthly Reports
+## Monthly Reports
 
 - [Aug_2024-June 2025](Reports/Aug_2024-June_2025.md)
 
