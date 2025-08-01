@@ -1,3 +1,4 @@
+
 # PERSONAL-BANK-STATEMENT-ANALYSIS
 
 # OVERVIEW
@@ -94,3 +95,11 @@ From the dashboard's pie chart visualization, I extracted the following percenta
 |Business	|0.52%	            |Opportunity to increase if side hustle exists|
 
 
+* Top 5 Largest Transactions
+|Date	|Purpose	|Amount	    |Actionable Insight|
+|-------|-----------|-----------|------------------|
+|Oct 2024|	Others	|₦1,000,050	|Investigate "Others" label for context|
+|Nov 2024|	Food	|₦829,000	|One huge grocery shopping|
+|Nov 2024|	Savings	|₦600,054	|Positive action—schedule recurring instead|
+|Dec 2024|	Savings	|₦300,054	|Good follow-up savings behavior|
+|Jun 2025|	Delivery|₦216,054	|One large delivery fromthe USA|
