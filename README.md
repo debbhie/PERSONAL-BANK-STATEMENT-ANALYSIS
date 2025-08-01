@@ -6,7 +6,7 @@
 - [TOOL AND TECHNOLOGIES](#tools-and-technologies)
 - [DATA PROCESSING](#data-processing)
 - [SKILLS DEMONSTRATED](#skills-demonstrated)
-- [OBJECTIVES/BUAINESS PROBLEMS](#objectives-/-business-problems)
+- [OBJECTIVES/BUSINESS PROBLEMS](#objectives-/-business-problems)
 - [ANALYTICAL THOUGHTS AND FRAMES](#analytical-thoughts-and-frames)
 
 
@@ -58,7 +58,7 @@ The analysis involved multiple data processing and analytical techniques, includ
 * Build an automated dashboard with filters for purpose, time range, and transaction type.
 * Apply data storytelling techniques to make insights clear and actionable.
 
-# ANAALYTICAL THOUGHTS AND FRAMES
+# ANALYTICAL THOUGHTS AND FRAMES
 * I started by exporting my statement data and loading it into a SQL environment. I quickly discovered inconsistencies:
     - Varying date formats
     - Null or ambiguous descriptions
